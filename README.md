@@ -97,13 +97,13 @@ KeyboardInterrupt
 ```
 
 Here, I terminated the process after 19 seconds (using CTRL-C), and it hardly
-got to hash anything at all. Thus, we can conclude that we know it is not 100% certain
-to be insecure, but we have no clue as to whether it takes enough time and resources
-for a hacker. As like everything in security, you need to make it so that the cost
+got to hash anything at all. Thus, we can conclude that we do not know anything.
+
+As like everything in security, you need to make it so that the cost
 outweights the benefit for the attacker, so you'll need to figure out how an IP
 address might be of benefit for him or her, and how far he or she is willing to go
 to recover it. Consult Google for some estimates on how many hashes can be done on
-a high-end set up instead.
+a high-end set up instead of using this software :P
 
 ## Why create this?
 
